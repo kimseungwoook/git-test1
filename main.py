@@ -14,4 +14,4 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # https://www.jetbrains.com/help/pycharm/에서 PyCharm 도움말 참
-print("this is feature -B1")
+print("this is feature -b1")
