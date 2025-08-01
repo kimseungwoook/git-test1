@@ -14,4 +14,4 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 print("this is master")
 print("fuck")
-
+print("two fuck")
