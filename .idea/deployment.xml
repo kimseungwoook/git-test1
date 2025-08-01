@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+  <component name="PublishConfigData">
+=======
   <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+>>>>>>> main
     <serverData>
       <paths name="seungwook@61.245.248.184:22 password">
         <serverdata>

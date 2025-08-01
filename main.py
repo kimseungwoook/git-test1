@@ -12,6 +12,10 @@ def print_hi(name):
 # 스크립트를 실행하려면 여백의 녹색 버튼을 누릅니다.
 if __name__ == '__main__':
     print_hi('PyCharm')
+
+print("feature-A")
+print("this is feature -b1")
 print("this is master")
 print("fuck")
+print("two fuck")
 
