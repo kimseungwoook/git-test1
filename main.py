@@ -13,7 +13,9 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
-
 print("feature-A")
 print("this is feature -b1")
+print("this is master")
+print("fuck")
+print("two fuck")
 
